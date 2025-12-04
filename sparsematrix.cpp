@@ -32,7 +32,7 @@ class matrixSparse{
   void addTerm(matrixTerm other){
     int i=0;
     /*
-    ignore this plz sadegh!!! this comment is for my study
+    
     dont use this kind of logic !!!!!!!!!
     while(other.row >= termArr[i].row){
       i++;
