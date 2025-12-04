@@ -4,7 +4,7 @@ class Node{
 
     int value;
 
-    //u have to use two * here
+    //u have to use two * here since the * is for the var name
     Node* prev , *next;
 
     public:
